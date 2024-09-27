@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Image Storage App is a Flutter application that allows users to upload, view, and delete images using Firebase Storage. This app provides a simple and intuitive interface for managing your image collection in the cloud.
+The Image Storage App is a Flutter application that allows users to upload, view, and delete images using Firebase Storage. This app provides a simple and intuitive interface for managing your images.
 
 ## Features
 
@@ -80,7 +80,3 @@ This project is licensed under the MIT License - see the [MIT License File](LICE
 ## Contact
 
 If you have any questions or feedback, please open an issue in the GitHub repository.
-
-Happy coding!
-
-damooola
